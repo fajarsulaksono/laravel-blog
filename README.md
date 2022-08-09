@@ -1,2 +1,2 @@
 # laravel-blog
-Blog dengan Laravel
+Mencoba package `binshops/laravel-blog` `composer require binshops/laravel-blog`
